@@ -6,14 +6,13 @@ Starter pack for ML5 project with typescript and webpack set up.
 
 Clone this repo `ml5-typescript-webpack` from github
 
-```git
+``` bash
 git clone git@github.com:dejavu1987/ml5-typescript-webpack.git
-
 ```
 
 Then go to the new directory and run `npm install`
 
-```bash
+``` bash
 cd ml5-typescript-webpack
 npm install
 ```
@@ -21,27 +20,27 @@ npm install
 
 ## Start development
 
-```
+``` bash
 npm start
 ```
 
 
 ## Build
 
-```
+``` bash
 npm run build
 ```
 
 
 ## Link
 
-```
+``` bash
 npm run lint
 ```
 
 ## Lint and fix
 
-```
+``` bash
 npm run lint-and-fix
 ```
 
