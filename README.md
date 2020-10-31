@@ -45,3 +45,8 @@ npm run lint
 npm run lint-and-fix
 ```
 
+## Notice
+ML5 does not officially support typescript yet. An incomplete version from @dikarel is being used at the moment.
+Follow the discussion here https://github.com/ml5js/ml5-library/issues/253
+
+
