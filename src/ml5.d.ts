@@ -1,3 +1,6 @@
+// Credit to original author: @dikarel
+// https://gist.github.com/dikarel/38a12ce263199a41ad67c15eac7f4b45
+
 // Not quite there yet, but better than nothing
 // TODO: JSDoc, based on website documentation
 // TODO: Interface/class types for each of these ML algorithm instances
