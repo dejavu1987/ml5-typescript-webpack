@@ -44,6 +44,9 @@ npm run lint
 npm run lint-and-fix
 ```
 
+## Guide on how P5 / ML5 works with TS/Webpack setup
+Read on my blog post how to update your sketch files to make it work with this setup http://anilmaharjan.com.np/blog/2020/10/ml5-with-webpack-and-typescript
+
 ## Notice
 ML5 does not officially support typescript yet. Initial draft version of type definition from @dikarel is being used at the moment.
 Follow the discussion here https://github.com/ml5js/ml5-library/issues/253
