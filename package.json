@@ -1,9 +1,8 @@
 {
-  "name": "classifier",
+  "name": "ml5-typescript-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starter kit for ml5js with Typescript and Webpack setup",
   "main": "index.ts",
-  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
@@ -12,8 +11,8 @@
     "lint": "eslint . --ext .ts",
     "lint-and-fix": "eslint . --ext .ts --fix"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "anil@anilmaharjan.com.np",
+  "license": "MIT",
   "dependencies": {
     "@types/p5": "^0.9.1",
     "ml5": "^0.5.0",
